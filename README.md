@@ -3,7 +3,7 @@
 Live Demo auf meinem [Webserver](http://45.93.249.217:3000/) (Port 3000, development server...)
 
 - 🔭 Thema: Todo Liste
-- 🌱 Geschrieben in ReactJS [<https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+- 🌱 Geschrieben in ReactJS [<img align="left" alt=ReactJS" witdh="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 - 🥅 Ziel: Funktionierende Todo Liste [Webseite](http://45.93.249.217:3000/) 
 - ⚡ Projekt gestartet am 26. März 2022
 
